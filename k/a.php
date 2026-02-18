@@ -34,7 +34,7 @@
 </head>
 <body>
 
-    <h1>งาน j - 66010914047 นายไชยวัฒน์ เหล่าหลำ</h1>
+    <h1>งาน k - 66010914047 นายไชยวัฒน์ เหล่าหลำ</h1>
 
     <button class="green-btn" onclick="showImage('img1')">เปิดรูปที่ 1</button>
     <button class="orange-btn" onclick="showImage('img2')">เปิดรูปที่ 2</button>
