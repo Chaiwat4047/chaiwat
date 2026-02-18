@@ -34,15 +34,15 @@
 </head>
 <body>
 
-    <h1>งาน k - 66010914047 นายไชยวัฒน์ เหล่าหลำ</h1>
+    <h1>งาน j - 66010914047 นายไชยวัฒน์ เหล่าหลำ</h1>
 
     <button class="green-btn" onclick="showImage('img1')">เปิดรูปที่ 1</button>
     <button class="orange-btn" onclick="showImage('img2')">เปิดรูปที่ 2</button>
 
     <br>
 
-    <img id="img1" src="../11.jpg" alt="รูปที่ 1">
-    <img id="img2" src="../22.jpg" alt="รูปที่ 2">
+    <img id="img1" src="11.jpg" alt="รูปที่ 1">
+    <img id="img2" src="22.jpg" alt="รูปที่ 2">
 
     <script>
         function showImage(id) {
